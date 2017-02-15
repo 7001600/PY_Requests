@@ -1,3 +1,6 @@
+# GetIp.py
+# Using Requests Module
+#
 import requests
 response = requests.get("http://checkip.amazonaws.com")
 print (" ")
